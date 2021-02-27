@@ -1,4 +1,4 @@
-(module "SSSS810701\rSSSS810701" (layer F.Cu) (tedit 572BB533)
+(module "SSSS810701" (layer F.Cu) (tedit 572BB533)
   (fp_text reference SW5 (at -1.8 6.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
