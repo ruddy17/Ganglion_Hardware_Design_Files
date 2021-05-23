@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name OpenBCI)(type KiCad)(uri ${KIPRJMOD}/OpenBCI_KiCad_library_files/OpenBCI.pretty)(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri ${KIPRJMOD}/Type-C.pretty)(options "")(descr ""))
+)

@@ -59,7 +59,7 @@ $ENDCMP
 #
 $CMP AD8614
 D AD8614, Op Amp in 5-pin package
-K op amp amplifier operational 
+K op amp amplifier operational
 $ENDCMP
 #
 $CMP ADA4075
@@ -94,7 +94,7 @@ F http://www.ti.com/lit/gpn/lm7332
 $ENDCMP
 #
 $CMP LP2985
-D MICROPOWER 150mA Regulator 
+D MICROPOWER 150mA Regulator
 K REGUL POWER  SOT-23-5
 F regulator/LP2985.pdf
 $ENDCMP
@@ -105,25 +105,25 @@ K 7 SEGMENTS
 F /Users/biomurph/Documents/KiCad/Docs/LTD-5623AG.pdf
 $ENDCMP
 #
-$CMP MCP3421A0T-E/CH
+$CMP MCP3421A0T-E_CH
 D AD56x1 nanoDAC, SPI, 8,10, 12 bit, LFCSP and SC70
 K DAC
 F http://www.mouser.com/ds/2/609/AD5601_5611_5621-259248.pdf
 $ENDCMP
 #
-$CMP MCP3425A1T-E/CH
+$CMP MCP3425A1T-E_CH
 D MCP3425A1T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
 K Sigma-Delta ADC Converter 16bit I2C
 F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
 $ENDCMP
 #
-$CMP MCP3425A2T-E/CH
+$CMP MCP3425A2T-E_CH
 D MCP3425A2T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
 K Sigma-Delta ADC Converter 16bit I2C
 F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
 $ENDCMP
 #
-$CMP MCP3425A3T-E/CH
+$CMP MCP3425A3T-E_CH
 D MCP3425A3T, Single Delta-Sigma 16bit Analog to Digital Converter, I2C Interface, SOT-23-6
 K Sigma-Delta ADC Converter 16bit I2C
 F http://ww1.microchip.com/downloads/en/DeviceDoc/22072b.pdf
@@ -131,13 +131,13 @@ $ENDCMP
 #
 $CMP MCP6002
 D Dual general purpose rail-to-rail op amp
-K dual op amp rail 
+K dual op amp rail
 F http://www.mouser.com/ds/2/405/tlv2333-844704.pdf
 $ENDCMP
 #
 $CMP MCP6V31U
 D Op Amp in 5-pin package
-K op amp amplifier operational 
+K op amp amplifier operational
 F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
 $ENDCMP
 #

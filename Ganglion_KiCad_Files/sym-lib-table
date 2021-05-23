@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Ganglion_01-rescue)(type Legacy)(uri ${KIPRJMOD}/Ganglion_01-rescue.lib)(options "")(descr ""))
+  (lib (name OpenBCI)(type Legacy)(uri ${KIPRJMOD}/OpenBCI_KiCad_library_files/OpenBCI.lib)(options "")(descr ""))
+  (lib (name MDBT50Q-1MV2)(type Legacy)(uri ${KIPRJMOD}/OpenBCI_KiCad_library_files/MDBT50Q-1MV2.lib)(options "")(descr ""))
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
+)
